@@ -34,7 +34,8 @@ model("https://ultralytics.com/images/bus.jpg", save=True)
 
 Detects bus and people
 
-Saves output with bounding boxes as results.jpg
+![YOLOv8 Output](results.jpg)
+
 
 ## Reference
 
